@@ -8,9 +8,7 @@ VERSION or DATE: September 2024
 AUTHORS: Stylianos N Antoniadis
 LICENSE: GPL-3.0 license
 USER INSTRUCTIONS: Run the Driver class and READ THE DESCRIPTION.
-DESCRIPTION: 
-            
-
+DESCRIPTION AND DETAILS: 
 
             This is a project that simulates the RSA encryption communication protocol.
             To avoid overflow issues related to Java's interpreter and compiler the values
@@ -24,4 +22,3 @@ DESCRIPTION:
             is an access modifier that prohibits the use of its associated attributes or methods
             from outside classes. This access modifier is seen in all of the private keys and
             demonstrates that no external agent has access to these keys.
- 
