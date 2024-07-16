@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bob
+comment1.params=a\ b
+comment1.target=int\ egcd(int,\ int)
+comment2.params=p\ q
+comment2.target=int\ phi(int,\ int)
+comment3.params=
+comment3.target=int\ gete()
+comment4.params=c
+comment4.target=double\ send_and_decrypt(double)
+comment5.params=c
+comment5.target=double\ decrypt(double)
+numComments=6
