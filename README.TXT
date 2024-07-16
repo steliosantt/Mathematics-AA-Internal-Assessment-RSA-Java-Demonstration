@@ -6,6 +6,7 @@ PROJECT TITLE: RSA
 PURPOSE OF PROJECT: Demonstrate the RSA encryption protocol
 VERSION or DATE: September 2024
 AUTHORS: Stylianos N Antoniadis
+LICENSE: GPL-3.0 license
 USER INSTRUCTIONS: Run the Driver class and READ THE DESCRIPTION.
 DESCRIPTION: This is a project that simulates the RSA encryption communication protocol.
             To avoid overflow issues related to Java's interpreter and compiler the values
