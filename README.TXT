@@ -11,7 +11,7 @@ USER INSTRUCTIONS: Either run the .jar file or compile and run the Main class. A
 DESCRIPTION AND DETAILS: 
 
             This is a project that simulates the RSA encryption communication protocol.
-            To avoid overflow issues related to Java's interpreter and compiler the values
+            To avoid overflow issues related to Java's interpreter and compiler, the values
             of prime numbers chosen are small. For the same reason, all input to the program
             must be integers less than 20. The basis of operation of the RSA protocol is clearly
             demonstrated even with these small values. The reason that I chose Java despite these
