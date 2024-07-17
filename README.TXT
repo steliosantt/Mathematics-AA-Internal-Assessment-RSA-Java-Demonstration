@@ -2,7 +2,7 @@
 All rights reserved.
 ------------------------------------------------------------------------
 
-PROJECT TITLE: RSA
+PROJECT TITLE: RSA Demonstration for the Internation Baccalaureate Mathematics: Analysis and Approaches Internal Assessement
 PURPOSE OF PROJECT: Demonstrate the RSA encryption protocol
 VERSION or DATE: September 2024
 AUTHORS: Stylianos N Antoniadis
