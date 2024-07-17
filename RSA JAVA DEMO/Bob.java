@@ -7,16 +7,14 @@ import java.util.*;
 
 public class Bob
 {
-    //private static int p = Prime_Number_Generator.getPrime();
     private static int p = 3;
 
-    //private static int q = Prime_Number_Generator.getPrime();
     private static int q = 7;
 
     public static int n = p * q;
     private static int phin = phi(p,q);
     public static int e = gete();
-    //private static int k = Prime_Number_Generator.getNum();
+
     private static int k = 2;
 
     private static int d = (1 + (k*phin))/e;
