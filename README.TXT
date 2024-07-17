@@ -7,7 +7,7 @@ PURPOSE OF PROJECT: Demonstrate the RSA encryption protocol
 VERSION or DATE: September 2024
 AUTHORS: Stylianos N Antoniadis
 LICENSE: GPL-3.0 license
-USER INSTRUCTIONS: Run the Driver class and READ THE DESCRIPTION.
+USER INSTRUCTIONS: Either run the .jar file or compile and run the Main class. Also, READ THE DESCRIPTION.
 DESCRIPTION AND DETAILS: 
 
             This is a project that simulates the RSA encryption communication protocol.
